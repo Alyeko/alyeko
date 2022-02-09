@@ -6,5 +6,5 @@
 - 💬 Ask me about geospatial data processes
 - 📫 How to reach me: aanimayeko@gmail.com
 <!-- 😄 Pronouns: ... -->
-- ⚡ Fun facts: The UK Office is my favourite comedy show! Also Djokovic is my fav out of the big 3 in tennis! 😌
+- ⚡ Fun facts: The US Office is my favourite comedy show! Also Djokovic is my fav out of the big 3 in tennis! 😌
 
