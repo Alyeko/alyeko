@@ -8,6 +8,6 @@
 <!-- 😄 Pronouns: ... -->
 - ⚡ Fun facts: The US Office is my favourite comedy show! Also Djokovic is my fav out of the big 3 in tennis! 😌
 
-![Alberta's github stats](https://github-readme-stats.vercel.app/api?username=Alyeko&show_icons=true&theme=vue)
+<!--![Alberta's github stats](https://github-readme-stats.vercel.app/api?username=Alyeko&show_icons=true&theme=vue) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alyeko&theme=vue)
