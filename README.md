@@ -11,3 +11,4 @@
 <!--![Alberta's github stats](https://github-readme-stats.vercel.app/api?username=Alyeko&show_icons=true&theme=vue) -->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alyeko&theme=vue)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alyeko&layout=compact)]
